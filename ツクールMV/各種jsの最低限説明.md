@@ -1,0 +1,2 @@
+AdultStatus.js…メニュー画面にステータス画面を追加
+ReminiscenceCreate.js…回想画面を最低限追加する
